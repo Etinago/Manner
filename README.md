@@ -49,8 +49,8 @@ The Git hub repo link: https://github.com/Etinago/manner
 
 ## Screenshots
 
-![alt text](<./public/image%20(1).png>)
-![alt text](<./public/image%20(2).png>)
+![alt text](./public/img1.png)
+![alt text](./public/img2.png)
 
 ## License
 
